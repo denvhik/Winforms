@@ -1,0 +1,1 @@
+﻿INSERT INTO students(name,surname,birthday) VALUES('sfsdfd','HOVxcxcxzcDYSH','07/22/24')

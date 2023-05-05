@@ -1,0 +1,13 @@
+D:\winforms\winforms\winforms\obj\Debug\winforms.csproj.AssemblyReference.cache
+D:\winforms\winforms\winforms\obj\Debug\winforms.csproj.SuggestedBindingRedirects.cache
+D:\winforms\winforms\winforms\obj\Debug\winforms.Form1.resources
+D:\winforms\winforms\winforms\obj\Debug\winforms.Properties.Resources.resources
+D:\winforms\winforms\winforms\obj\Debug\winforms.csproj.GenerateResource.cache
+D:\winforms\winforms\winforms\obj\Debug\winforms.csproj.CoreCompileInputs.cache
+D:\winforms\winforms\winforms\bin\Debug\datatest.mdf
+D:\winforms\winforms\winforms\bin\Debug\datatest_log.ldf
+D:\winforms\winforms\winforms\bin\Debug\winforms.exe.config
+D:\winforms\winforms\winforms\bin\Debug\winforms.exe
+D:\winforms\winforms\winforms\bin\Debug\winforms.pdb
+D:\winforms\winforms\winforms\obj\Debug\winforms.exe
+D:\winforms\winforms\winforms\obj\Debug\winforms.pdb
